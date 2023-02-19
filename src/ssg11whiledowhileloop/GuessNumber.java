@@ -14,6 +14,7 @@ public class GuessNumber {
 
         // sara 7  kaya mehmet 6
 
+        // random class
 
         Random rnd = new Random();
        // System.out.println(rnd);
